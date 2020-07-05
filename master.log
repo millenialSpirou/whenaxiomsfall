@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2020.5.29)  29 MAY 2020 15:20
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2020.6.3)  15 JUN 2020 22:31
  restricted system commands enabled.
  file:line:error style messages enabled.
 **master.tex
@@ -35,7 +35,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.067 seconds
+luaotfload | main : initialization completed in 0.065 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -867,9 +867,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--89
 
 [17
 
-] [18
-
-] (./beginnings.tex
+] (./distance.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--6
 
  []
@@ -879,9 +877,67 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--12
 
  []
 
+)
+Underfull \hbox (badness 10000) in paragraph at lines 13--92
+
+ []
+
+[18
+
+] (./beginning.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--15
+
+ []
+
 ) [19
 
 ] (./textures.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--18
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 19--100
+
+ []
+
+[20
+
+] (./magic.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--15
+
+ []
+
+) [21
+
+] (./street.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--11
+
+ []
+
+) [22
+
+] (./trees.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--8
 
  []
@@ -892,41 +948,60 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--15
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 16--99
+Underfull \hbox (badness 10000) in paragraph at lines 16--111
 
  []
 
-(./street.tex
+[23
+
+] (./wind.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--6
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--11
+Underfull \hbox (badness 10000) in paragraph at lines 7--12
 
  []
 
-) [20
+) [24
+
+] (./endings.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--12
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 13--119
+
+ []
+
+[25
 
 ] (./master.aux))
 
 Here is how much of LuaTeX's memory you used:
- 11495 strings out of 494480
+ 11525 strings out of 494480
  100000,383344 words of node,token memory allocated
  408 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 5 attribute, 52 glue_spec, 5 attribute_list
 , 2 write nodes
-   avail lists: 2:123,3:95,4:10,5:27,6:1207,7:408,8:10,9:56,11:40
+   avail lists: 2:115,3:95,4:10,5:27,6:1207,7:408,8:7,9:56,11:40
  15389 multiletter control sequences out of 65536+600000
  36 fonts using 6349999 bytes
  39i,5n,67p,378b,229s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/frederic/.local/share/fonts/Courier Prime Italic.ttf></home/frederic/.loc
 al/share/fonts/Courier Prime.ttf></home/frederic/.local/share/fonts/Courier Prim
 e Bold.ttf>
-Output written on master.pdf (20 pages, 66069 bytes).
+Output written on master.pdf (25 pages, 70822 bytes).
 
-PDF statistics: 88 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
+PDF statistics: 104 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
