@@ -2,6 +2,7 @@
 #+author: Frederic Boileau
 #+exclude_tags: noexport
 #+latex_header: \usepackage{titlesec}
+#+latex_header: \usepackage{xcolor}
 #+latex_header: \newcommand{\sectionbreak}{\clearpage}
 #+latex_header: \newcommand{\subsectionbreak}{\clearpage}
 
