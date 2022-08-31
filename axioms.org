@@ -110,7 +110,7 @@ was \textit{fuck}; all the hair was soft
 even the close shaven one was golden
 and sweet and her
 underwear was near enough
-so as to forget the fault
+so as to not forget the fault
 
 because doors shouldn't
 crack, they should swivel
@@ -183,7 +183,7 @@ spray a distant stare
 We used to have warm ashtrays
 hot coffee,
 cold feet; torn out socks
-Scrambled eggs and ``fuck you weddings''
+Scrambled eggs and \textit{fuck you weddings}
 they caressed your hair
 Slipped the pill under your tongue
 and whispered their soft it's  okay's
@@ -270,6 +270,7 @@ a silhouette of himself which is less shallow
 muttering to himself; as for a prayer
 ``you were there when it mattered
 something must have shattered''
+and Tym hates rhyming couplets
 
 actions are words sometimes; the
 walls close in & what else was tym left
@@ -1425,11 +1426,13 @@ fucking right
 I mean I do
   know the difference between
  genius & madness I just
-   resent it, crystal amethysts amber &
-    polished rocks, smoothed out,
+   resent it,
+  peering through the
+    my reflection in polished rocks & smoothed out
      shards of broken beer bottles
 This is not my language
     she is
+    \cdots
  the beach is wide and empty
 here --
 you do have to take a long walk
@@ -1437,10 +1440,12 @@ to reach it, part of the process
     the destination does matter
  & eventhough pragmatism always ends
  up swallowing my platonic romantic
-tendencies -- yes they do, conjunct equally
-you parataxic leaches --
+tendencies --
+  (  yes they do, conjunct equally
+      you parataxic leaches  ) --
 the towel is dark, the color
-  of k-holes she mediates the
+  of k-holes
+         she mediates the
 contrast w/ white sand through
   tanned marble lazy statuesque poses
 
@@ -1449,8 +1454,8 @@ contrast w/ white sand through
        enough books have been read"
 & it's never enough
  -- for a time it was
-  didit lastlong enough?
-   probably not
+  did it lastlong enough?
+   \ldots probably not
 
  clouds rain & stained mattresses
   are my preferred
@@ -1464,16 +1469,16 @@ Doesn't everything start w/ a stain
     is where shyness lies
 
 Beyond the towel the body the air and the sea
- urchins, searching
 there is always a bird and I for one
-personally am comforted
+am comforted
 by its tendency to girate towards
 leftover french fries in an
-almost empty parking lot
+ empty fastfood parking lot
 
     Don't you want to be, happy?
       -- that's not enough !
-      "Is that healty"/ probably not
+      "Is that healty"
+      \ldots probably not
 
     I'll make jewels though
     ouf of polished
@@ -1483,19 +1488,19 @@ almost empty parking lot
     the kaleidoscope keeps turning
       jet lag is in the way
        Damn you sunne why must skin
-    burn for yours/ours contemptible
-     collective dispassioned amusement
+    burn for your pulsating contentment
 
      tell me where is this
-     white sand
+     white sand:
     I haven't so thoroughly rejected
      purity, I just have a distrussful
      nature, hence the books &
     the shelves & the computers
-     worthy (?) of trust, but no more
-     I'd join
+     worthy (?) of trust,
+        but no more!
+     I'd join you, yes
       like a happy defanged canine
-       any k-hole you plunge to
+       any k-hole shaped waterfall you dive into
 
        --
     should take a walk
@@ -1550,3 +1555,5 @@ she was the one, the mirror
 Love,
 Cedric
 #+end_verse
+
+**
